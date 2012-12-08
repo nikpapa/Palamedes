@@ -1,0 +1,3 @@
+Palamedes
+=========
+Palamedes is a project dedicated to offering expert playing computer opponents at backgammon and several other variants. Currently users of Palamedes can play the variants Portes, Plakoto, Fevga collectively called Tavli (Greek backgammon) and Narde. For position evaluation, Palamedes uses neural networks trained by a form of temporal difference learning and millions of self-play games. Palamedes also offers simple ways of storing and loading games, as well as simple analyzing tools.
