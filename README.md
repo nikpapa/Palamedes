@@ -1,9 +1,24 @@
-Palamedes
-=========
-Palamedes is a project dedicated to offering expert playing computer opponents at backgammon and several other variants. Currently users of Palamedes can play the variants Portes, Plakoto, Fevga collectively called Tavli (Greek backgammon) and Narde. For position evaluation, Palamedes uses neural networks trained by a form of temporal difference learning and millions of self-play games. Palamedes also offers simple ways of storing and loading games, as well as simple analyzing tools.
+# Palamedes
 
-License/Warranty
+Palamedes is a **research project** focused on developing expert-level artificial intelligence for backgammon and related variants. It explores whether techniques used by strong backgammon programs can be generalized across multiple variants, and investigates new algorithms and methods to advance expert AI for these games.
+For more information about the project visit the [project's website](https://nikpapa.com/Palamedes)
 
-Palamedes is free software. This means that the user can use all of the features of the software at no cost. If you have paid to obtain this software, get your money back. Selling this software is absolutely prohibited. Distributing this software in any form is permitted only if it is approved by the author. Palamedes can be downloaded from the official program website: http://ai.uom.gr/nikpapa/software.html
+## Research Outputs and Applications
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+The outcomes of the Palamedes research project are made available through several outputs:
+
+- **Palamedes Windows**  
+  A Windows desktop application that allows the user to play against the AI, store and replay games, and perform position analysis.
+
+- **HappyGammon (Android)**
+  An Android application that allows the user to play against the AI in his/her device.
+  You can download Happygammon from the [Google Play Store](https://play.google.com/store/apps/details?id=gr.nikpapa.palamedes)
+
+- **Published Papers** – freely accessible PDFs of the project’s academic publications, available in the [`papers`](papers/) folder  
+  - [See the papers folder](papers/)
+
+These outputs allow users and researchers to interact with the expert AI, study its methods, and explore the research results across multiple variants.
+
+## Trademark Notice
+
+The name “Palamedes” is used solely to identify the research project and is not intended as a trademark or commercial brand.
