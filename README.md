@@ -7,7 +7,7 @@ For more information about the project visit the [project's website](https://nik
 
 The outcomes of the Palamedes research project are made available through several outputs:
 
-- **Palamedes Windows**  
+- **Polygammon (Windows)**  
   A Windows desktop application that allows the user to play against the AI, store and replay games, and perform position analysis.
 
 - **HappyGammon (Android)**
